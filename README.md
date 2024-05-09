@@ -8,7 +8,7 @@ Install Python(latest version) (Dont Forget to Tick Add to Path while installing
 # Installing - easy :electric_plug:
 1.	Download the repository
 ```
-git clone https://github.com/dev-manus/hospitalmanagementsystem.git
+git clone https://github.com/Ob00000000/hospital-management-system-
 ```
 2.	Open a Any Editor (Preferably VS Code or Sublime Text)
 3.	Create a virtual environment and then open a new terminal.
